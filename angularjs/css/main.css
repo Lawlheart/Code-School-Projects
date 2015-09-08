@@ -11,3 +11,10 @@ body {
 	width:400px;
 	margin:20px auto;
 }
+
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
